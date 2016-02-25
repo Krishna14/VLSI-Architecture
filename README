@@ -1,1 +1,5 @@
 This repository contains the RTL code for lab exercises
+
+The repository has been subdivided into directories for implementation of individual lab exercises. The codes have been implemented using VHDL.
+
+ 
